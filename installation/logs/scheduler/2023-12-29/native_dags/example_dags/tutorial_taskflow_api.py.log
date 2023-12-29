@@ -1,0 +1,28 @@
+[2023-12-29T04:32:39.127+0000] {processor.py:154} INFO - Started process (PID=74) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:32:39.128+0000] {processor.py:756} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-12-29T04:32:39.128+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:32:39.128+0000] {dagbag.py:537} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:32:39.259+0000] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:32:39.379+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:32:39.378+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-12-29T04:32:39.443+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:32:39.443+0000] {dag.py:3340} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-12-29T04:32:39.518+0000] {processor.py:176} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.394 seconds
+[2023-12-29T04:33:09.625+0000] {processor.py:154} INFO - Started process (PID=133) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:33:09.626+0000] {processor.py:756} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-12-29T04:33:09.627+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:33:09.626+0000] {dagbag.py:537} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:33:09.647+0000] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:33:09.681+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:33:09.681+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-12-29T04:33:09.704+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:33:09.704+0000] {dag.py:3340} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-12-29T04:33:09.721+0000] {processor.py:176} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.098 seconds
+[2023-12-29T04:33:39.962+0000] {processor.py:154} INFO - Started process (PID=198) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:33:39.963+0000] {processor.py:756} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-12-29T04:33:39.964+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:33:39.964+0000] {dagbag.py:537} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:33:39.982+0000] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:33:40.017+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:33:40.017+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-12-29T04:33:40.040+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:33:40.040+0000] {dag.py:3340} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-12-29T04:33:40.058+0000] {processor.py:176} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.098 seconds
+[2023-12-29T04:34:10.977+0000] {processor.py:154} INFO - Started process (PID=252) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:34:10.978+0000] {processor.py:756} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-12-29T04:34:10.979+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:34:10.978+0000] {dagbag.py:537} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:34:11.000+0000] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-12-29T04:34:11.038+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:34:11.037+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-12-29T04:34:11.062+0000] {logging_mixin.py:120} INFO - [2023-12-29T04:34:11.062+0000] {dag.py:3340} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-12-29T04:34:11.082+0000] {processor.py:176} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.109 seconds
